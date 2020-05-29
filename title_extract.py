@@ -26,7 +26,7 @@ webtitle =soup.select('title')
 
 # now in object webtitle all there will be array of all elemnts with tag title in code
 
-  print (webtitle)
+print (webtitle)
 #above form will print array something like [<title> Learn  Code </title>]
 
 print ( webtitle[0] )

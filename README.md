@@ -8,7 +8,7 @@ the term typically refers to automated processes implemented using a bot or web 
 It is a form of copying, in which specific data is gathered and copied from the web, typically into a central local database or spreadsheet, for later retrieval or analysis.
 
 In this project we craped several websites and collected useful data . There are seveal libraries in python which can be 
-used  for web scraping such as beautiful soup, lxml and selenium.
+used  for web scraping such as beautiful soup, pandas and selenium.
 We've used beautiful soups and selenium in this project to scrap different websites.
 
 
